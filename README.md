@@ -34,3 +34,6 @@ tzdata==2024.1
 urllib3==2.2.1
 uvicorn==0.28.1
 
+![Alt text]("C:\Users\user\Pictures\Screenshots\스크린샷 2024-03-27 123346.png")   #마크다운
+ <img src='"C:\Users\user\Pictures\Screenshots\스크린샷 2024-03-27 123346.png"'>    #html
+
