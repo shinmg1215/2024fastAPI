@@ -1,3 +1,4 @@
+![header](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrunch.co.kr%2Fbrunchbook%2Fcinebus&psig=AOvVaw27G7LFAM_jMPfRuR629TFQ&ust=1713336445872000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKj3y-mRxoUDFQAAAAAdAAAAABAD)<br/>
 # 2024fastAPI
 fastAPI를 이용한 붓꽃분류시스템, 양화추천시스템, 2024 1학기 캡스톤프로잭트
 
@@ -34,6 +35,4 @@ tzdata==2024.1
 urllib3==2.2.1
 uvicorn==0.28.1
 
-![Alt text]("C:\Users\user\Pictures\Screenshots\스크린샷 2024-03-27 123346.png")   #마크다운
- <img src='"C:\Users\user\Pictures\Screenshots\스크린샷 2024-03-27 123346.png"'>    #html
 
